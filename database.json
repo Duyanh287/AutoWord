@@ -1,0 +1,20 @@
+[
+    {"Brand":"Huyndai","Seatingcapacity": "7","Design": "SUV","Year": "2023","Origin":"Japan", "Model":"Hyundai Santafe","Image":"img/santafe.png" ,"Color":">Black, Red, White, Blue, Gray, Silver","Area":"HCM" ,"Price": "63,800 $"},
+    {"Brand":"Huyndai","Seatingcapacity": "5","Design": "Hatchback","Year": "2023","Origin":"Japan", "Model":"Hyundai i10","Image":"img/i10.png" ,"Color":"Black, Red, White, Gray, Silver","Area":"HCM" ,"Price": "15,300 $"},
+    {"Brand":"Huyndai","Seatingcapacity": "5","Design": "Sedan","Year": "2023","Origin":"Japan", "Model":"Hyundai Elantra","Image":"img/elantra.png" ,"Color":"Black, Red, White, Silver","Area":"HCM" ,"Price": "25,500 $"},
+    {"Brand":"Huyndai","Seatingcapacity": "5","Design": "Sedan","Year": "2023","Origin":"Japan", "Model":"Hyundai Accent","Image":"img/accent.png" ,"Color":"Black, White, Gray, Orange","Area":"HCM" ,"Price": "18,100 $"},
+   
+    {"Brand":"Toyota","Seatingcapacity": "5","Design": "Sedan","Year": "2023","Origin":"Thailand", "Model":"Toyota Corolla Altis","Image":"img/corolla.png" ,"Color":"Black, Red, White","Area":"" ,"Price": "35,900 $"},
+    {"Brand":"Toyota","Seatingcapacity": "5","Design": "Sedan","Year": "2023","Origin":"Thailand", "Model":"Toyota Camry","Image":"img/camry.png" ,"Color":"Black, Red, White","Area":"" ,"Price": "51,900 $"},
+    {"Brand":"Toyota","Seatingcapacity": "5","Design": "Sedan","Year": "2023","Origin":"Vietnam", "Model":"Toyota Vios","Image":"img/vios.png" ,"Color":"Black, Red, White, Silver","Area":"" ,"Price": "20,400 $"},
+    {"Brand":"Toyota","Seatingcapacity": "7","Design": "MVP","Year": "2023","Origin":"Vietnam", "Model":"Toyota Innova","Image":"img/innova.png" ,"Color":"Black, Red, White","Area":"" ,"Price": "42,300 $"},
+    {"Brand":"Toyota","Seatingcapacity": "7","Design": "SUV","Year": "2023","Origin":"Vietnam", "Model":"Toyota Fortuner","Image":"img/fortuner.png" ,"Color":"Black, White","Area":"" ,"Price": "43,600 $"},
+    {"Brand":"Toyota","Seatingcapacity": "5","Design": "MVP","Year": "2023","Origin":"Thailand", "Model":"Toyota Hilux","Image":"img/hilux.png" ,"Color":"Black, Red, White, Blue, Silver","Area":"" ,"Price": "36,200 $"},
+    {"Brand":"Toyota","Seatingcapacity": "5","Design": "SUV","Year": "2023","Origin":"Indo", "Model":"Toyota Raize","Image":"img/raize.png" ,"Color":"Black, Red, White, Yellow","Area":"" ,"Price": "23,500 $"},
+
+    {"Brand":"Honda","Seatingcapacity": "5","Design": "Sedan","Year": "2023","Origin":"Japan","Model":"Honda City","Image":"img/city.png" ,"Color":"Black, Red, White","Area":"" ,"Price": "22,500 $"},
+    {"Brand":"Honda","Seatingcapacity": "5","Design": "Sedan","Year": "2023","Origin":"Japan","Model":"Honda Civic","Image":"img/civic.png" ,"Color":"Black, Red, White","Area":"" ,"Price": "31,000 $"},
+    {"Brand":"Honda","Seatingcapacity": "5","Design": "Sedan","Year": "2023","Origin":"Japan", "Model":"Honda Accord","Image":"img/accord.png" ,"Color":"Black, White","Area":"" ,"Price": "52,300 $"},
+    {"Brand":"Honda","Seatingcapacity": "7","Design": "SUV","Year": "2023","Origin":"Thailand","Model":"Honda HRV","Image":"img/HRV.png" ,"Color":"Black, Red, White, Silver","Area":"" ,"Price": "29,800 $"},
+    {"Brand":"Honda","Seatingcapacity": "5","Design": "SUV","Year": "2023","Origin":"Japan", "Model":"Honda CRV","Image":"img/CRV.png" ,"Color":"Black, Red, White, Silver","Area":"" ,"Price": "42,500 $"}
+]
